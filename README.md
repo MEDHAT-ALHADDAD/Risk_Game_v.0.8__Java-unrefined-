@@ -10,6 +10,6 @@ The goal of the game is to occupy every territory on the board and in doing so, 
 The game can be lengthy, requiring several hours to multiple days to finish. The game starts by distributing countries and soldiers. 
 The game was implemented in Java language. 
 
---foe more https://github.com/MEDHAT-ALHADDAD/mips_sim/blob/master/CSE126-Project-Report.docx
+--for [more](https://github.com/MEDHAT-ALHADDAD/mips_sim/blob/master/CSE126-Project-Report.docx)
 
 ![](https://github.com/MEDHAT-ALHADDAD/Risk_Game_v.19__Java-unrefined-/blob/master/src/resources/in.jpg)
