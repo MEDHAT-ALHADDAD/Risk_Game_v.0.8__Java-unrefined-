@@ -10,4 +10,4 @@ The goal of the game is to occupy every territory on the board and in doing so, 
 The game can be lengthy, requiring several hours to multiple days to finish. The game starts by distributing countries and soldiers. 
 The game was implemented in Java language. 
 
---foe more 
+--foe more https://github.com/MEDHAT-ALHADDAD/mips_sim/blob/master/CSE126-Project-Report.docx
