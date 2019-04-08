@@ -1,4 +1,4 @@
-# mips_sim
+# Risk Game
 
 The game is called Risk. 
 Risk is a strategy board game of diplomacy, conflict and conquest for two to six players. 
