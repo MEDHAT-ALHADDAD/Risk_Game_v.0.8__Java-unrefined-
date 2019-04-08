@@ -12,4 +12,4 @@ The game was implemented in Java language.
 
 --foe more https://github.com/MEDHAT-ALHADDAD/mips_sim/blob/master/CSE126-Project-Report.docx
 
-[https://github.com/MEDHAT-ALHADDAD/Risk_Game_v.19__Java-unrefined-/blob/master/src/resources/in.jpg]
+![](https://github.com/MEDHAT-ALHADDAD/Risk_Game_v.19__Java-unrefined-/blob/master/src/resources/in.jpg)
